@@ -90,7 +90,7 @@ Workflow [C++ CI Pipeline](https://github.com/Andrey76546/my-cpp-app/actions/wor
 - `Build & Test` — установка CMake/Google Test, release-сборка, CTest и запуск приложения;
 - `Build Docker Image` — Buildx, сборка и запуск образа, загрузка `docker-image.tar.gz` на 7 дней.
 
-Все запуски: [GitHub Actions](https://github.com/Andrey76546/my-cpp-app/actions).
+Успешный запуск: [C++ CI Pipeline #1](https://github.com/Andrey76546/my-cpp-app/actions/runs/41018681725). Все запуски: [GitHub Actions](https://github.com/Andrey76546/my-cpp-app/actions).
 
 ## Результаты выполнения
 
